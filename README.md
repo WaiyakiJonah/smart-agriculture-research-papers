@@ -49,3 +49,7 @@
 **Authors**: Ali Roshanianfard, Noboru Noguchi, Tatsuki Kamata <br/>
 **Keywords**: agricultural robot, robotic arm, harvesting, modeling, simulation, design <br/>
 **Date**: January, 2019
+### 🦾🌿 [### 🦾🌿 [Design and performance of a robotic arm for farm use](https://www.sciencedirect.com/journal/journal-of-agriculture-and-food-research)
+**Authors**: Seid Hussen Muhie<br/>
+**Keywords**: Sustainable Agriculture Approaches Practices Food security  <br/>
+**Date**:  7 November 2022](https://www.sciencedirect.com/journal/journal-of-agriculture-and-food-research)
